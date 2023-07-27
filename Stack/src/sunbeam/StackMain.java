@@ -1,10 +1,3 @@
-/*******************************************************************
- * Java Code: StackMain.java
- * Date: 04-Jan-2021
- * Course: Sep 2020 Batch at Sunbeam Infotech
- * Module: Data Structures and Algorithms
- * Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
- *******************************************************************/
 
 package sunbeam;
 
