@@ -27,7 +27,7 @@ public class MergeSortMain {
 		int i = left, j = mid+1, k = 0;
 		// compare elements from both partitions and copy the smaller one 
 		// (until any one partition is done)
-		while(i <= mid && j 	<= right) {
+		while(i <= mid && j <= right) {
 			if(arr[i] < arr[j])
 				temp[k++] = arr[i++];
 			else
